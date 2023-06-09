@@ -1,5 +1,8 @@
 # ESP Stack Trace Decoder Dockerization
 
+Deprecated, replaced with https://gitlab.com/jeremy-open-source/docker-containers/-/tree/master/esp-stack-trace-decoder
+
+
 Dockerization of https://github.com/littleyoda/EspStackTraceDecoder
 
 Docker container to run the ESP exception decoder binary.
